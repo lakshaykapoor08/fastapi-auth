@@ -36,7 +36,6 @@ venv.bak/
 .idea_modules/
 
 # VS Code
-.vscode/
 *.code-workspace
 
 # Environment variables
@@ -84,3 +83,7 @@ nosetests.xml
 
 # pyenv
 .python
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
